@@ -253,3 +253,4 @@ Execute the below, logging in with your GitHub username and password when prompt
 ```
 submit50 cs50/problems/2020/x/mario/less
 ```
+After a succesful login, you'll be prompted with a question about academic honesty.  Type "yes" or "y" and hit enter to continue.
