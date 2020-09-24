@@ -247,7 +247,7 @@ A space is just a press of your space bar, just as a period is just a press of i
 {% next %}
 
 ## How to Submit
-First, click the link: https://submit.cs50.io/invites/9e32b2ce5b2a4f878b5d8bcbb62de9e1
+First, click the link:  [Join my submit50 course with this link.](https://submit.cs50.io/invites/9e32b2ce5b2a4f878b5d8bcbb62de9e1)
 Make sure to log in with your normal GitHub account.
 Then:
 Execute the below, logging in with your GitHub username and password when prompted. For security, you'll see asterisks (`*`) instead of the actual characters in your password.
