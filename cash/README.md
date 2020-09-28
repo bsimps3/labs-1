@@ -93,5 +93,5 @@ style50 cash.c
 Execute the below, logging in with your GitHub username and password when prompted. For security, you'll see asterisks (`*`) instead of the actual characters in your password.
 
 ```
-submit50 bsimps3/labs-1/2020/x/cash
+submit50 bsimps3/problems/2020/x/cash
 ```
