@@ -5,7 +5,7 @@
 <!-- http://mypieceofthe31415927.blogspot.com/2014/04/whats-wrong-with-these-us-coins.html -->
 ![US coins](coins.jpg)
 
-When making change, odds are you want to minimize the number of coins you're dispensing for each customer, lest you run out (or annoy the customer!).  Fortunately, computer science has given cashiers everywhere ways to minimize numbers of coins due: greedy algorithms.
+When making change, odds are you want to minimize the number of coins you're dispensing for each customer, lest you run out (or annoy the customer!).  Right now there's actually a national coin shortage... so we've got to help solve it. Fortunately, computer science has given cashiers everywhere ways to minimize numbers of coins due: greedy algorithms.
 
 According to the National Institute of Standards and Technology (NIST), a greedy algorithm is one "that always takes the best immediate, or local, solution while finding an answer. Greedy algorithms find the overall, or globally, optimal solution for some optimization problems, but may find less-than-optimal solutions for some instances of other problems."
 
@@ -77,7 +77,7 @@ Does your code work as prescribed when you input
 You can also execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
 
 ```
-check50 cs50/problems/2020/x/cash
+check50 bsimps3/problems/2020/x/cash
 ```
 
 Execute the below to evaluate the style of your code using `style50`.
@@ -93,5 +93,5 @@ style50 cash.c
 Execute the below, logging in with your GitHub username and password when prompted. For security, you'll see asterisks (`*`) instead of the actual characters in your password.
 
 ```
-submit50 cs50/problems/2020/x/cash
+submit50 bsimps3/labs-1/2020/x/cash
 ```
